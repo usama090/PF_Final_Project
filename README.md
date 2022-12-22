@@ -1,2 +1,2 @@
-# PF_Final_Project
+# Programming Fundamentals Final Project
 Inventory Management System
