@@ -1,0 +1,56 @@
+1,Ahmad Nadeem,Computer Science
+2,Arshad Khan,Computer Science
+3,Talha Rashid,Computer Science
+4,Abdullah Zubair,Computer Science
+5,Usaid ur Rehman,Computer Science
+6,Talha Rashid,Data Science
+7,Nadeem Majeed,Software Engineering
+8,Taha Anjum,IT
+9,Sunia Javaid,Physics
+10,Arfa Mirza,Mathematics
+11,M.Ahmad Nadeem,Computer Science
+12,M.Arshad Khan,Computer Science
+13,M.Talha Rashid,Computer Science
+14,M.Abdullah Zubair,Computer Science
+15,M.Usaid ur Rehman Computer Science
+16,M.Talha Rashid,Data Science
+17,M.Nadeem Majeed,Software Engineering
+18,M.Taha Anjum,IT
+19,Sunia Javaid Khan,Physics
+20,Arfa Khan,Mathematics
+21,Mian Ahmad Nadeem ,Computer Science
+22,Mian Arshad Khan,Computer Science
+23,Mian Talha Rashid,Computer Science
+24,Mian Abdullah Zubair,Computer Science
+25,Mian Usaid ur Rehman,Computer Science
+26,Mian Talha Rashid,Data Science
+27,Mian Nadeem Majeed,Software Engineering
+28,Mian Taha Anjum,IT
+29,Choudhary Sunia Javaid,Physics
+30,Choudhary Arfa Mirza,Mathematics
+31,Choudhary Ahmad Nadeem,Computer Science
+32,Choudhary Arshad Khan,Computer Science
+33,Choudhary Talha Rashid,Computer Science
+34,Choudhary Abdullah Zubair,Computer Science
+35,Choudhary Usaid ur Rehman,Computer Science
+36,Choudhary Talha Rashid,Data Science
+37,Choudhary Nadeem Majeed,Software Engineering
+38,Choudhary Taha Anjum,IT
+39,Sunia Javaid Mehar,Physics
+40,Arfa Mirza Mehar,Mathematics
+41,Ahmad Nadeem Mehar,Computer Science
+42,Arshad Khan Mehar,Computer Science
+43,Talha Rashid Mehar,Computer Science
+44,Abdullah Zubair Mehar,Computer Science
+45,Usaid ur Rehman Mehar,Computer Science
+46,Talha Rashid Mehar,Data Science
+47,Nadeem Majeed Mehar,Software Engineering
+48,Taha Anjum Mehar,IT
+49,Sunia Javaid Awan,Physics
+50,Arfa Mirza Awan,Mathematics
+51,Ahmad Nadeem Awan,Computer Science
+52,Arshad Khan Awan,Computer Science
+53,Talha Rashid Awan,Computer Science
+54,Abdullah Zubair Awan,Computer Science
+55,Usaid ur Rehman Awan,Computer Science
+56,Talha Rashid Awan,Data Science
